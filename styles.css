@@ -77,7 +77,7 @@ h3{
 }
 .home{
     min-height: 100vh;
-    background: url(/images/home-img.jpeg) no-repeat;
+    background: url(home-img.jpeg) no-repeat;
     background-size: cover;
     color: #ffff;
     background-position: center;
